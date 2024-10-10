@@ -1,5 +1,9 @@
 {
     "releases": {
+        "3.13.0": {
+            "hash": "GFW8g10MZVEliwhqtn1ztZvy7ZW6UfJfH6qs6tmG1r4=",
+            "url": "https://www.python.org/ftp/python/3.13.0/Python-3.13.0.tgz"
+        },
         "3.12.0": {
             "hash": "UUEpVtJKHvfJfxy19w4YXBPj3h9Q0THAqsYzgIBoevs=",
             "url": "https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz"
@@ -520,88 +524,13 @@
             "hash": "mSRhqVmOhaRTI1EtTmD6bB1arvCVa/nbmHM8xaqbBeE=",
             "url": "https://www.python.org/ftp/python/3.3.7/Python-3.3.7.tgz"
         },
-        "2.7.6": {
-            "hash": "mcaGC3CXe++hWQAp+uCS3bGNsdaa5n6Lk4W2btEEulg=",
-            "url": "https://www.python.org/ftp/python/2.7.6/Python-2.7.6.tgz"
-        },
-        "2.7.7": {
-            "hash": "f0nApnBa2J2SUYHifQqqAl7kcxzg3mR3bHIiFsPmbEI=",
-            "url": "https://www.python.org/ftp/python/2.7.7/Python-2.7.7.tgz"
-        },
-        "2.7.8": {
-            "hash": "dNcLkU2kSHqh2XIisp6VVNBC+CXybLK5Or0g/dpWtVc=",
-            "url": "https://www.python.org/ftp/python/2.7.8/Python-2.7.8.tgz"
-        },
-        "2.7.9": {
-            "hash": "yLujPmasMgHavcVW8Op8/mrBGUbsMtNXxMb5sBjBLFs=",
-            "url": "https://www.python.org/ftp/python/2.7.9/Python-2.7.9.tgz"
-        },
-        "2.7.10": {
-            "hash": "7ajObuwD50mRq7U4QXDnxl/NdSLkCbjoPX5jcq3Q8So=",
-            "url": "https://www.python.org/ftp/python/2.7.10/Python-2.7.10.tgz"
-        },
-        "2.7.11": {
-            "hash": "gpKblv1q/I2oOLFJEHB4wC+hdEt+YJmai6u8DT+ob8Y=",
-            "url": "https://www.python.org/ftp/python/2.7.11/Python-2.7.11.tgz"
-        },
-        "2.7.12": {
-            "hash": "PLUi0XRj36aaFVqxjP+jmbNYyWbANj1si1s78ThNpLY=",
-            "url": "https://www.python.org/ftp/python/2.7.12/Python-2.7.12.tgz"
-        },
-        "2.7.13": {
-            "hash": "pPBaByDOD9kmJvAni2tDPu6aYXPd8rzteVfftZml7OE=",
-            "url": "https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz"
-        },
-        "2.7.14": {
-            "hash": "MEybIC6m+9CkqOCtNzNxX71HSfIgSpFzpY7FPDLqc+g=",
-            "url": "https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz"
-        },
-        "2.7.15": {
-            "hash": "GGF9HxWjgKkZ1RdjCpzYXOF+pgL5u9xY3cZy30sCOds=",
-            "url": "https://www.python.org/ftp/python/2.7.15/Python-2.7.15.tgz"
-        },
-        "2.7.16": {
-            "hash": "AdqBOjYAh28D9G2xHMXECBdemfA68rqULvMkOJqDutU=",
-            "url": "https://www.python.org/ftp/python/2.7.16/Python-2.7.16.tgz"
-        },
-        "2.7.17": {
-            "hash": "8iBZ0JzfliXgpyhNJKEwYgRPW/Wdk6fzOCGQ36lM7N4=",
-            "url": "https://www.python.org/ftp/python/2.7.17/Python-2.7.17.tgz"
-        },
         "2.7.18": {
-            "hash": "2jCA47SI9kij16RWDd7olShMM4CxHW3nXtuYZSa5qBQ=",
-            "url": "https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz"
-        },
-        "3.12.3": {
-            "hash": "prlFn0Wm67vBr0T1diYj+jVaDIcgjtQXYos3nXYt3bA=",
-            "url": "https://www.python.org/ftp/python/3.12.3/Python-3.12.3.tgz"
-        },
-        "3.12.4": {
-            "hash": "AbPBwIIZbzszFo00SpyF+we/4Ofs/nf+5EQ0INHOKtk=",
-            "url": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz"
-        },
-        "2.7.18.1": {
-            "hash": "Pw2VZwNLmgpf1cKKM5sqh2a15Kub1+7YMQ/4TUUDUO4=",
-            "url": "https://github.com/ActiveState/cpython/archive/refs/tags/v2.7.18.1.tar.gz"
-        },
-        "2.7.18.8": {
-            "hash": "I5zq0CGYTmY0/UO66GQVWqXwlOx/XovbZvQdSzJ3hB4=",
-            "url": "https://github.com/ActiveState/cpython/archive/refs/tags/v2.7.18.8.tar.gz"
-        },
-        "2.7.18.9": {
-            "hash": "Tl94mHYHLTDKhYxwaPVvPqhNC+V2QzV+F67jKSMA39U=",
-            "url": "https://github.com/ActiveState/cpython/archive/refs/tags/v2.7.18.9.tar.gz"
-        },
-        "2.7.18.6_CVE_RC3": {
-            "hash": "SrG3wgRfkbfasPkCtwmiklYfE438g/AxHUeAhVea9Bw=",
-            "url": "https://github.com/ActiveState/cpython/archive/refs/tags/v2.7.18.6_CVE_RC3.tar.gz"
-        },
-        "2.7.18.6_CVE": {
-            "hash": "sV47Vxry4BHor9PLhN5bFKWFTKv4LBemrWgzVupiZR0=",
-            "url": "https://github.com/ActiveState/cpython/archive/refs/tags/v2.7.18.6_CVE.tar.gz"
+			"hash": "q0wyUmfBJqwcHn4cGTWSOqguETllNs/jtvPk5beWx2g=",
+            "url": "https://www.python.org/ftp/python/2.7.18/Python-2/7.18.tgz"
         }
     },
     "latest": {
+        "3.13": "3.13.0",
         "3.12": "3.12.4",
         "3.11": "3.11.9",
         "3.10": "3.10.14",
@@ -612,6 +541,6 @@
         "3.5": "3.5.10",
         "3.4": "3.4.10",
         "3.3": "3.3.7",
-        "2.7": "2.7.18.9"
+        "2.7": "2.7.18"
     }
 }
